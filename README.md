@@ -1,6 +1,6 @@
 # 🔐 Network Security Project  
 
-This repository contains my hands-on implementations and configurations in *Network Security, developed during my Summer Internship at the **National Telecommunication Institute (NTI)* under the guidance of Dr. Saher Waleed.  
+This repository contains my hands-on implementations and configurations in *Network Security, developed during my Summer Internship at the **National Telecommunication Institute (NTI)*
 
 🚀 The project focuses on designing, configuring, and securing real-world network infrastructures. It highlights how different technologies and protocols integrate to build a secure networking environment.  
 
